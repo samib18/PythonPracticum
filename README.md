@@ -1,0 +1,2 @@
+# PythonPracticum
+CSI 394 
